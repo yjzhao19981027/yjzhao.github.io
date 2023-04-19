@@ -1,0 +1,59 @@
+I"q<p>[<a href="/publication_type/">sort by type</a>]	[<a href="/publication/">sort by date</a>]</p>
+
+<h1 id="conference-publications">Conference Publications</h1>
+
+<div class="row">
+	<div class="small-4 column">
+			<a href="#">
+				<img src="../images/images_for_pub/" style="width: 100%" />
+			</a>
+	</div>
+	<div class="small-8 column">
+		<p>
+			<b></b>
+			<br />
+			
+			<br /> 
+			
+			<br />
+			<a href="#"> [PDF]</a>
+			
+			<a href=""> [Code]</a>
+			
+			
+			<a href="#"> [Blog Post]</a>
+			
+		</p>
+	</div>
+		
+</div>
+
+<hr />
+
+<h1 id="journal-publications">Journal Publications</h1>
+
+<div class="row">
+	<div class="small-4 column">
+			<a href="#">
+				<img src="../images/images_for_pub/" style="width: 100%" />
+			</a>
+	</div>
+	<div class="small-8 column">
+		<p>
+			<b></b>
+			<br />
+			
+			<br /> 
+			
+			<br />
+			<a href="#"> [PDF]</a>
+			
+			
+		</p>
+	</div>
+		
+</div>
+
+<hr />
+
+:ET
