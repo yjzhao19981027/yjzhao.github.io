@@ -33,7 +33,7 @@ permalink: "/people/"
     </div>
     
     <div class="row">
-        {% include member.html photo="../images/people/YimingWu.jpg" name="Yiming Wu" title="Ph.D ZJU" homepage="https://www.wuyiming.site" %}
+        {% include member.html photo="../images/people/YimingWu.jpg" name="Yiming Wu Postdoc" title="Ph.D ZJU" homepage="https://www.wuyiming.site" %}
     </div>
     
 </div>

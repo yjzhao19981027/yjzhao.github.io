@@ -1,10 +1,10 @@
-<div class="small-3 columns member" style="text-align:center;">
+<div class="small-3 columns member">
 {% if include.name %}
 		  	<div class="row">
-		  		<img src="{{ include.photo }}" width="150" height="150">
+		  		{% if include.photo %} <img src="{{ include.photo }}" width="150" height="150"> {% endif %}
 		  	</div>
-		  	<div  {% if include.person_style %} style="{{ include.person_style }}" {% endif %}>
-				  	<div class="row">
+		  	<div  {% if include.person_style %} style="{{ include.person_style }}" {% endif %} >
+				  	<div class="row" >
 						{% if include.homepage %}
 				  			<a href="{{ include.homepage }}">{{ include.name }}</a>
 						{% else %}

@@ -58,7 +58,6 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-
 ---
 
 
@@ -128,8 +127,6 @@ homepage: true
         </a>
     </div>
   </div>
-
-
 
   <div class="column small-3 pc" style="max-height: inherit">
   	<div><h3>News</h3></div>
