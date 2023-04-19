@@ -9,7 +9,7 @@ header:
 permalink: "/recruitment/"
 ---
 <div  align="center">
- <img src="../images/jcstem_logo.png" width = "800" height = "800" alt="jcstem_logo" align=center />
+ <img src="../images/jcstem_logo.png" width = "100%" height = "100%" alt="jcstem_logo" align=center />
 </div>
 
 We are always recruiting **Ph.D.** and **Master** students with strong academic background and solid programming skills. Students who have experiences related to the research topics in our lab are highly preferred.
