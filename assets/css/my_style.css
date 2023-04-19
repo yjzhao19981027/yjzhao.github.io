@@ -81,6 +81,13 @@
 	background-size: cover;
     }
 
+    .head-logo {
+	background-image: url(images/jcstem_logo.png);
+	background-repeat-x:  no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+    }
+
     #sub-title {
 	margin-top: 30px;
 	color: #FFFFFF;
