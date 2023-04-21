@@ -8,13 +8,13 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'JC STEM Lab'
+title: 'JC STEM Lab of MediaML'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: '@ HKU'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Welcome to the homepage of the JC STEM Lab at The University of Hong Kong'
+description: 'Welcome to the homepage of the JC STEM Lab of MediaML at The University of Hong Kong'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Modified by Yiming Wu based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
@@ -193,7 +193,7 @@ msapplication_tilecolor              : '#fabb00'
 
 socialmedia:
     twitter   : jcstem_hku
-    facebook  : JC Stem Lab Hku
+    facebook  : JC STEM Lab of MediaML HKU
 
 
 #        ____  _
@@ -229,7 +229,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-# google_analytics_tracking_id:
+google_analytics_tracking_id: UA-265567190-1
 
 
 

@@ -9,6 +9,6 @@ homepage: false
 
 ---
 
-This is the homepage of the JC STEM Lab at the University of Hong Kong. We built this website ourselves in 2023 with [Jekyll](https://jekyllrb.com/).
+This is the homepage of the JC STEM MediaML Lab at the University of Hong Kong. We built this website ourselves in 2023 with [Jekyll](https://jekyllrb.com/).
 
 Our website is user-friendly, highly modularized and could be personalized very quickly! If you'd like to, you can build your own academic website for free based on our framework. The code of our website is available on [Github](https://github.com/jcstem/jcstem.github.io). For commercial use, please contact [Prof. Dong Xu](https://www.cs.hku.hk/index.php/people/academic-staff/dongxu) for details.
