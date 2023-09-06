@@ -8,10 +8,10 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'JC STEM Lab of MediaML'
+title: My project
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: '@ HKU'
+slogan: my slogan
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Welcome to the homepage of the JC STEM Lab of MediaML at The University of Hong Kong'
@@ -25,7 +25,7 @@ author: Yiming Wu
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://jcstem.github.io'
+url: 'https://yjzhao19981027.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://jcstem.github.io/images/'
+urlimg: 'https://yjzhao19981027.github.io/images/'
 
 
 # Logo size is 600x80 pixels
