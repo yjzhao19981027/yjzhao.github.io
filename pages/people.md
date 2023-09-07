@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: front
 show_meta: false
 title: "People"
 subheadline: ""
