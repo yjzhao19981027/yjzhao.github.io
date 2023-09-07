@@ -9,7 +9,7 @@ header:
 permalink: "/contact/"
 ---
 
-## Below are the homepages and contact information for our respective laboratories:
+## Trying to get in touch with us? Then take a look at our homepage and contact information!
 
 ## Lab1
 
@@ -29,9 +29,6 @@ homepage:xxx
 
 e-mail:xxx
 
-<div class="row">
-    {{ content }}
-</div>
 
 
 
