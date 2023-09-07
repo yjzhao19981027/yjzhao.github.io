@@ -341,28 +341,57 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-#### Model Compression
-
-Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
-
-<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQq_0_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="uwdba2zj" style="background-color: transparent;">
+        <div id="uniqueId_NFvw7rQq_8_heading">
             <h4 class="b-accordion__title">
-                <a title="Model Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
-                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    Model Compression
+                <a title="GeometryMotion-Net: A Strong Two-stream Baseline for 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_8_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_8_panel">
+                    GeometryMotion-Net: A Strong Two-stream Baseline for 3D Action Recognition
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
+        <div id="uniqueId_NFvw7rQq_8_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_8_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p><strong>Our partner:</strong>&nbsp;Google Brain, Microsoft, Alibaba Research, Facebook Reality Lab, University of Washington.</p>
-<p>We are tackling the essential performance problems for both extreme large-scale and small-scale models on a diverse range of hardware platforms. </p>
-<p>Along with our international collaborators, we aim to explore principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation through cross-stack co-design (compiler, runtime and hardware accelerators). </p>
-<p>The scope of our MLSys research includes but not limited to ML compiler design and optimisations, software-hardware co-design, runtime optimisation techniques, and customised acceleration for novel deep learning models.</p>
-<p><strong>Funding agency:</strong> Google Brain, Alibaba Global Faculty Award (AIR), Facebook Fair Faculty Award, USYD SOAR fellowship.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jiaheng Liu</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>In this work, we propose a strong two-stream baseline method referred to as GeometryMotion-Net for 3D action recognition. For efficient 3D action recognition, we first represent each point cloud sequence as a limited number of randomly sampled frames with each frame consisting of a sparse set of points. After that, we propose a new two-stream framework for effective 3D action recognition. For the geometry stream, we propose a new module to produce a virtual overall geometry point cloud by first merging all 3D points from these selected frames, and then we exploit local neighborhood information of each point in the feature space. In the motion stream, for any two neighboring point cloud frames, we also propose a new module to generate one virtual forward motion point cloud and one virtual backward motion point cloud. Specifically, for each point in the current frame, we first produce a set of 3D offset features relative to the neighboring points in the reference frame ( i.e. , the previous/subsequent frame) and then exploit local neighborhood information of this point in the offset feature space. Based on the newly generated virtual overall geometry point cloud and multiple virtual forward/backward motion point clouds, any existing point cloud analysis methods ( e.g. , PointNet) can be readily adopted for extracting discriminant geometry and bidirectional motion features in the geometry and motion streams, respectively, which are further aggregated to make our two-stream network trainable in an end-to-end fashion. Comprehensive experiments on both large-scale datasets ( i.e. NTU RGB+D 60 and NTU RGB+D 120) and small-scale datasets ( i.e. , N-UCLA and UWA3DII) demonstrate the effectiveness and efficiency of our two-stream network for 3D action recognition. </p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method9.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong>J. Liu* and D. Xu, “GeometryMotion-Net: A Strong Two-stream Baseline for 3D Action Recognition,” T-CSVT, 31(12), pp. 4711-4721, December 2021. 
+ </p>
+</div>
+            </div>
+        </div>
+    </div>
+
+#### Model Compression
+
+Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
+
+<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd94">
+        <div id="uniqueId_NFvw7rQq_9_heading">
+            <h4 class="b-accordion__title">
+                <a title="Streaming label learning for leaching knowledge from labels on the fly" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_9_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_9_panel">
+                    Streaming label learning for leaching knowledge from labels on the fly
+                </a>
+            </h4>
+        </div>
+
+        <div id="uniqueId_NFvw7rQq_9_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_9_heading">
+            <div class="b-accordion__content b-accordion__content--corporate">
+                <div class="content richTextModule"><p><strong>Our experts:</strong>&nbsp;Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html">Tongliang Liu</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html">Chang Xu</a></p>
+<p><strong>Our partner:</strong>&nbsp;Professor Gabor Lugosi (Universitat Pompeu Fabra)</p>
+<p>This machine intelligence project aims to explore the potential to use and incorporate past knowledge and training to better understand, interpret and develop new concepts.</p>
+<p>The expected outcomes will provide major technological breakthroughs to benefit science, society, and the economy nationally by laying theoretical foundations for learning labels in a streaming fashion, and building the next generation of intelligent systems to accommodate environment change in applications about cybercrime, terrorism, and emergence.</p>
 </div>
             </div>
         </div>
