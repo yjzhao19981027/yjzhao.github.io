@@ -66,7 +66,7 @@ homepage: true
 
 ## Our Aim
 
-## Our Task
+Research on humanoid visual perception algorithms and technologies for service robots.
 
 ## Our Research
 
@@ -80,9 +80,9 @@ Efficient and high-quality compression techniques are developed for point cloud 
 <div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
-                <a title="Point Cloud Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
+                <a title="Geometry-based Point Cloud Compression，G-PCC" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
                   js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    Point Cloud Compression
+                    Geometry-based Point Cloud Compression，G-PCC
                 </a>
             </h4>
         </div>
@@ -100,21 +100,12 @@ Efficient and high-quality compression techniques are developed for point cloud 
         </div>
     </div>
 
-
-
-
-<div class="b-js-anchor-in-accordion b-accordion__group panel-group b-component
-                " data-open-single="false" id="uniqueId_NFvw7rQq" aria-multiselectable="true">
-
-        
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u">
+<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
-                <a title="Exploring principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    Exploring principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation
+                <a title="Video-based Point Cloud Compression ，V-PCC" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
+                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
+                    Video-based Point Cloud Compression ，V-PCC
                 </a>
             </h4>
         </div>
@@ -130,159 +121,4 @@ Efficient and high-quality compression techniques are developed for point cloud 
 </div>
             </div>
         </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="rh223j2g">
-        <div id="uniqueId_NFvw7rQq_1_heading">
-            <h4 class="b-accordion__title">
-                <a title="Transfer learning handling causally bilateral shift" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_1_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_1_panel">
-                    Transfer learning handling causally bilateral shift
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_1_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_1_heading" aria-expanded="false" style="height: 0px;">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our experts: </strong>Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dong-xu.html">Dong Xu</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html">Tongliang Liu</a></p>
-<p><strong>Our partners:&nbsp;</strong>Associate Professor Kun Zhang (CMU)</p>
-<p>We aim to equip machines with the ability to harness complex causal structures for transfer learning. We expect to produce the next great step for artificial intelligence – the potential to explore and exploit complex causal information to better understand, reason, and trust transfer learning.<br>
-<br>
-Expected outcomes include theoretical foundations for transfer learning utilising causality and the next generation of intelligent systems to accommodate data with complex causal structures. This should benefit science, society, and the economy nationally and internationally through the applications to analysing their corresponding complex data.</p>
-</div>
-            </div>
-        </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="et1813xo">
-        <div id="uniqueId_NFvw7rQq_2_heading">
-            <h4 class="b-accordion__title">
-                <a title="Understanding the fundamental limits of estimation, testing, and optimisation from distributed data" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_2_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_2_panel">
-                    Understanding the fundamental limits of estimation, testing, and optimisation from distributed data
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_2_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_2_heading" aria-expanded="false" style="height: 0px;">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/clement-canonne.html">Clément Canonne</a><br>
-<strong><br>
- Our partners: </strong>Assistant Professor Jayadev Acharya (Cornell University), Associate Professor Himanshu Tyagi (Indian Institute of Science).<br>
-<br>
-We aim to characterise the fundamental limits and trade-offs of statistical inference and optimisation in distributed or "information-constrained" settings, an umbrella term which encompasses bandwidth constraints, restricted or noisy measurements, and privacy-preserving algorithms.<br>
-</p>
-<p>Our goal is to develop a general and rigorous framework to design and analyse algorithms in such settings, optimally balancing data requirements, computational efficiency, and the information constraints at play.</p>
-</div>
-            </div>
-        </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="59ok6c07">
-        <div id="uniqueId_NFvw7rQq_3_heading">
-            <h4 class="b-accordion__title">
-                <a title="Fine-grained human action recognition with deep graph neural networks" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
-                        js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_3_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_3_panel">
-                    Fine-grained human action recognition with deep graph neural networks
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_3_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_3_heading">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Professor&nbsp;<a href="https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/simon-lewis.html">Simon Lewis</a>, Associate Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html">Zhiyong Wang&nbsp;</a></p>
-<p><strong>Our partners:&nbsp;</strong>Professor Dr Mohammed Bennamoun (UWA), Associate Professor Markus Hagenbuchner (UOW), Professor Ah Chung Tsoi (UOW)</p>
-<p>We aim to develop novel graph neural network based deep learning algorithms for fine-grained human action recognition. We expect to bring human action analysis to the next level and to significantly advance the analysis of subtle yet complex human actions.</p>
-<p>Expected outcomes of this project include theoretical advances on graph representation based deep learning algorithms for spatial-temporal data, and enabling techniques for more objective human action analysis in many domains such as sports and health. </p>
-<p>This should provide significant benefits to any application domain involving big and complex spatial-temporal data for finer analytics and better knowledge discovery.</p>
-</div>
-            </div>
-        </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf">
-        <div id="uniqueId_NFvw7rQq_4_heading">
-            <h4 class="b-accordion__title">
-                <a title="Automatic honey data generation for active cyber defence " href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
-                        js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_4_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_4_panel">
-                    Automatic honey data generation for active cyber defence 
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_4_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_4_heading">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html">Chang Xu</a></p>
-<p><strong>Our partners:</strong> Dr Surya Nepal (CSIRO), Dr Siqi Ma (UNSW)</p>
-<p>We aim to enhance the security of networks and information systems by empowering them with intelligent deception techniques to achieve proactive attack detection and defence. </p>
-<p>In recent times, the fictitious environment – honeypot designed by human experience becomes popular to attract attackers and capture their interactions. However, rules-based construction of honeypots fails in preserving the privacy, boosting the attractiveness and evolving the system.<br>
-<br>
-The project expects to advance deep learning and yield novel DeepHoney technologies with associated publications and open-source software. This should benefit science, society, and the economy by building the next generation of active cyber defence systems.</p>
-</div>
-            </div>
-        </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="hjldio5f">
-        <div id="uniqueId_NFvw7rQq_5_heading">
-            <h4 class="b-accordion__title">
-                <a title="Adaptive key-value store for future extreme heterogeneous systems" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
-                        js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_5_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_5_panel">
-                    Adaptive key-value store for future extreme heterogeneous systems
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_5_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_5_heading">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our experts:</strong>&nbsp;Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/alan-fekete.html">Alan Fekete,</a>&nbsp;Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/bernhard-scholz.html">Bernhard Scholz</a>, Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/willy-zwaenepoel.html">Willy Zwaenepoel</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p>Safe, lasting storage of data, and efficient access to it, is vital for all aspects of computing, ranging from e-commerce applications, and data-management in governments. </p>
-<p>For the storage of data, persistent key-value stores are central in modern computing platforms. However, contemporary key-value stores have not been designed for emerging extreme heterogeneous computational systems with future hardware accelerators and storage capabilities, including graphics processor and flash-based memory.</p>
-<p>We’re devising an adaptive key-value store framework for heterogeneous systems. Our new framework will adaptively harvest the performance potential of future hardware such that applications can cope with fast-growing data sets.</p>
-</div>
-            </div>
-        </div>
-    </div>
-
-        
-            
-            
-    <div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zj">
-        <div id="uniqueId_NFvw7rQq_6_heading">
-            <h4 class="b-accordion__title">
-                <a title="Feature-dependent label noise learning for big data analytics" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
-                        js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_6_panel">
-                    Feature-dependent label noise learning for big data analytics
-                </a>
-            </h4>
-        </div>
-
-        <div id="uniqueId_NFvw7rQq_6_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_6_heading">
-            <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr&nbsp;<a href="https://sydney.edu.au/engineering/people/tongliang.liu.php">Tongliang Liu&nbsp;</a></p>
-<p>This project aims to equip machines with the ability to robustly harness feature-dependent label noise from big data. It expects to produce the potential to explore and exploit the weakly supervised information to better understand, interpret, and infer big data.</p>
-<p>Expected outcomes will include theoretical foundations for learning with label noise in the real-world scenarios and the next generation of intelligent systems to accommodate noisily annotated big data.</p>
-<p>This project should benefit science, society, and the economy nationally and internationally through the applications in the areas of artificial intelligence, cybersecurity, and big data analytics.</p>
-<p><strong>Funding agency:</strong>&nbsp;Australian Research Council (ARC)/Discovery Early Career Researcher Award (DECRA) 2019-2022</p>
-</div>
-            </div>
-        </div>
-    </div> 
     </div>
