@@ -91,8 +91,8 @@ Efficient and high-quality compression techniques are developed for point cloud 
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
-                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Zizheng Que</a>
-                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Guo</a>
+                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Zizheng Que</a>, 
+                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Guo</a>, 
                     <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
                 </p>
                 <p><strong>Abstract:</strong>In this paper, we propose a two-stage deep learning framework called VoxelContext-Net for both static and dynamic point cloud compression. Taking advantages of both octree based methods and voxel based schemes, our approach employs the voxel context to compress the octree structured data. Specifically, we first extract the local voxel representation that encodes the spatial neighbouring context information for each node in the constructed octree. Then, in the entropy coding stage, we propose a voxel context based deep entropy model to compress the symbols of non-leaf nodes in a lossless way. Furthermore, for dynamic point cloud compression, we additionally introduce the local voxel representations from the temporal neighbouring point clouds to exploit temporal dependency. More importantly, to alleviate the distortion from the octree construction procedure, we propose a voxel context based 3D coordinate refinement method to produce more accurate reconstructed point cloud at the decoder side, which is applicable to both static and dynamic point cloud compression. The comprehensive experiments on both static and dynamic point cloud benchmark datasets(e.g., ScanNet and Semantic KITTI) clearly demonstrate the effectiveness of our newly proposed method VoxelContext-Net for 3D point cloud geometry compression. </p>
@@ -112,7 +112,7 @@ Efficient and high-quality compression techniques are developed for point cloud 
 
 Generate denser point clouds from sparse point clouds, including static point cloud upsampling and video-based point cloud upsampling.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="rh223j2g">
+<div class="b-accordion__item panel b-js-accordion-item" id="rh223j2g" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_1_heading">
             <h4 class="b-accordion__title">
                 <a title="Sequential Point Cloud Upsampling by Exploiting Multi-scale Temporal Dependency" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_1_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_1_panel">
@@ -125,9 +125,9 @@ Generate denser point clouds from sparse point clouds, including static point cl
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
-                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Kaisiyuan Wang</a>
-                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>
-                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuhang Gu</a>
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Kaisiyuan Wang</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuhang Gu</a>, 
                         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
                     </p>
                     <p><strong>Abstract:</strong>In this work, we propose a new sequential point cloud upsampling method called SPU, which aims to upsample sparse, non-uniform, and orderless point cloud sequences by effectively exploiting rich and complementary temporal dependency from multiple inputs. Specifically, these inputs include a set of multi-scale short-term features from the 3D points in three consecutive frames (i.e., the previous/current/subsequent frame) and a long-term latent representation accumulated throughout the point cloud sequence. Considering that these temporal clues are not well aligned in the coordinate space, we propose a new temporal alignment module (TAM) based on the cross-attention mechanism to transform each individual feature into the feature space of the current frame. We also propose a new gating mechanism to learn the optimal weights for these transformed features, based on which the transformed features can be effectively aggregated as the final fused feature. The fused feature can be readily fed into the existing single frame-based point cloud upsampling methods (e.g., PU-Net, MPU and PU-GAN) to generate the dense point cloud for the current frame. Comprehensive experiments on three benchmark datasets DYNA, COMA, and MSR Action3D demonstrate the effectiveness of our method for upsampling point cloud sequences. </p>
