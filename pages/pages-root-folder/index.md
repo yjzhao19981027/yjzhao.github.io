@@ -182,7 +182,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf">
+<div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_4_heading">
             <h4 class="b-accordion__title">
                 <a title="SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
@@ -213,7 +213,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-<div class="b-accordion__item panel b-js-accordion-item" id="hjldio5f">
+<div class="b-accordion__item panel b-js-accordion-item" id="hjldio5f" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_5_heading">
             <h4 class="b-accordion__title">
                 <a title="Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
@@ -247,7 +247,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zj">
+<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zj" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_6_heading">
             <h4 class="b-accordion__title">
                 <a title="Transformer3D-Det: Improving 3D Object Detection by Vote Refinement" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
