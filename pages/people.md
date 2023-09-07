@@ -11,7 +11,7 @@ permalink: "/people/"
 
 ---
 
-<div class="row">
+<div class="row" align="center">
     <div class="row">
 <!--         <h3>Faculty</h3> -->
         <br/>
