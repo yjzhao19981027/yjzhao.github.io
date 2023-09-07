@@ -80,17 +80,14 @@ Efficient and high-quality compression techniques are developed for point cloud 
 <div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
-                <a title="Geometry-based Point Cloud Compression，G-PCC" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
+                <a title="VoxelContext-Net: An Octree based Framework for Point Cloud Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
                   js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    Geometry-based Point Cloud Compression，G-PCC
+                    VoxelContext-Net: An Octree based Framework for Point Cloud Compression
                 </a>
             </h4>
         </div>
         
         <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
-            <div align="center">
-                <h3><strong>VoxelContext-Net: An Octree based Framework for Point Cloud Compression</strong></h3>
-            </div>
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
@@ -100,8 +97,10 @@ Efficient and high-quality compression techniques are developed for point cloud 
                 </p>
                 <p><strong>Abstract:</strong>In this paper, we propose a two-stage deep learning framework called VoxelContext-Net for both static and dynamic point cloud compression. Taking advantages of both octree based methods and voxel based schemes, our approach employs the voxel context to compress the octree structured data. Specifically, we first extract the local voxel representation that encodes the spatial neighbouring context information for each node in the constructed octree. Then, in the entropy coding stage, we propose a voxel context based deep entropy model to compress the symbols of non-leaf nodes in a lossless way. Furthermore, for dynamic point cloud compression, we additionally introduce the local voxel representations from the temporal neighbouring point clouds to exploit temporal dependency. More importantly, to alleviate the distortion from the octree construction procedure, we propose a voxel context based 3D coordinate refinement method to produce more accurate reconstructed point cloud at the decoder side, which is applicable to both static and dynamic point cloud compression. The comprehensive experiments on both static and dynamic point cloud benchmark datasets(e.g., ScanNet and Semantic KITTI) clearly demonstrate the effectiveness of our newly proposed method VoxelContext-Net for 3D point cloud geometry compression. </p>
                 <p><strong>Our Method:</strong></p>
-                <img src="/images/method1.png" align="center">
-                <img src="/images/method2.png"  width="300px" height="10px">
+                <div align="center">
+                    <img src="/images/method1.png" height="100px">
+                    <img src="/images/method2.png" height="100px">
+                </div>
                 <p><strong>Reference:</strong> Z. Que*, G. Lu and D. Xu, “VoxelContext-Net: An Octree based Framework for Point Cloud Compression,” CVPR 2021</p>
 
 </div>
