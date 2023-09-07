@@ -62,7 +62,7 @@ homepage: true
 
 ## Introduction
 
-* first
+TBD
 
 ## Our Aim
 
