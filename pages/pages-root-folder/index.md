@@ -70,18 +70,18 @@ homepage: true
 
 ## Our Research
 
+Professor Dong Xu's team at the University of Hong Kong will conduct research in the field of point cloud processing and analysis. Specifically, they will focus on one or more of the following research directions:
+
 #### Point Cloud Compression
 
 Efficient and high-quality compression techniques are developed for point cloud data, significantly reducing storage and bandwidth costs. This includes Geometry-based Point Cloud Compression (G-PCC) and Video-based Point Cloud Compression (V-PCC), which are specifically designed for compressing point cloud data.
 
-* second
-* 
 
-<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;font-size:10px;">
+<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
                 <a title="Point Cloud Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
-                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" color="yellow" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
+                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
                     Point Cloud Compression
                 </a>
             </h4>
