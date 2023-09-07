@@ -7,7 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth:
-title: "JC STEM Lab of MediaML @ HKU"
+title: "Human-like Visual Perception for Service Robots"
 
 #slider:
 #text_color: white
