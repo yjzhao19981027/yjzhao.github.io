@@ -378,47 +378,126 @@ Model compression refers to the process of reducing the size and complexity of a
 <div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd94">
         <div id="uniqueId_NFvw7rQq_9_heading">
             <h4 class="b-accordion__title">
-                <a title="Streaming label learning for leaching knowledge from labels on the fly" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                <a title="JointPruning: Pruning Networks along Multiple Dimensions for Efficient Point Cloud Processing" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
                         js-analytics-accordian-wide-button js-analytics-accordian-wide
                         collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_9_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_9_panel">
-                    Streaming label learning for leaching knowledge from labels on the fly
+                    JointPruning: Pruning Networks along Multiple Dimensions for Efficient Point Cloud Processing
                 </a>
             </h4>
         </div>
 
         <div id="uniqueId_NFvw7rQq_9_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_9_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our experts:</strong>&nbsp;Professor&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html">Dacheng Tao</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/tongliang-liu.html">Tongliang Liu</a>, Dr&nbsp;<a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/c-xu.html">Chang Xu</a></p>
-<p><strong>Our partner:</strong>&nbsp;Professor Gabor Lugosi (Universitat Pompeu Fabra)</p>
-<p>This machine intelligence project aims to explore the potential to use and incorporate past knowledge and training to better understand, interpret and develop new concepts.</p>
-<p>The expected outcomes will provide major technological breakthroughs to benefit science, society, and the economy nationally by laying theoretical foundations for learning labels in a streaming fashion, and building the next generation of intelligent systems to accommodate environment change in applications about cybercrime, terrorism, and emergence.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jinyang Guo</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jiaheng Liu</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>Deep neural networks designed for point clouds, also called point cloud neural networks (PCNNs), are attracting increasing attention in recent years. In this work, we propose the first model compression framework referred to as JointPruning (JP) that is specifically designed for compressing PCNNs. Observing that the redundancies in PCNNs are largely affected by certain parameters like the number of points, we first propose a new search space specifically designed for PCNNs. By searching the optimal pruning policy in our newly proposed search space, our JP framework can prune the PCNNs at different levels and simultaneously reduce the redundancies along multiple dimensions. As the newly proposed search space consists of multiple levels and the policy value at each level is continuous in our JP framework, it is hard to directly search for the best pruning policy in such a large search space. To this end, we further propose two strategies called search space refinement and validation set extension to progressively refine the granularity of our searching process in a coarse-to-fine and easy-to-hard fashion, which can help us gradually find better pruning policies. Comprehensive experiments on three benchmark datasets demonstrate the effectiveness of our JP framework for compressing PCNNs.</p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method10.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong>J. Guo*, J. Liu* and D. Xu, “JointPruning: Pruning Networks along Multiple Dimensions for Efficient Point Cloud Processing,” IEEE T-CSVT, 32(6), pp. 3659-3672, June 2022.
+
+ </p>
 </div>
             </div>
         </div>
     </div>
 
-#### 3D Visual Grounding
-
-The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
-
-<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQq_0_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd95">
+        <div id="uniqueId_NFvw7rQq_1_heading">
             <h4 class="b-accordion__title">
-                <a title="3D Visual Grounding" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
-                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    3D Visual Grounding
+                <a title="3D-Pruning: A Model Compression Framework for Efficient 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_1_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_1_panel">
+                    3D-Pruning: A Model Compression Framework for Efficient 3D Action Recognition
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
+        <div id="uniqueId_NFvw7rQq_1_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_1_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p><strong>Our partner:</strong>&nbsp;Google Brain, Microsoft, Alibaba Research, Facebook Reality Lab, University of Washington.</p>
-<p>We are tackling the essential performance problems for both extreme large-scale and small-scale models on a diverse range of hardware platforms. </p>
-<p>Along with our international collaborators, we aim to explore principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation through cross-stack co-design (compiler, runtime and hardware accelerators). </p>
-<p>The scope of our MLSys research includes but not limited to ML compiler design and optimisations, software-hardware co-design, runtime optimisation techniques, and customised acceleration for novel deep learning models.</p>
-<p><strong>Funding agency:</strong> Google Brain, Alibaba Global Faculty Award (AIR), Facebook Fair Faculty Award, USYD SOAR fellowship.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jinyang Guo</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jiaheng Liu</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>The existing end-to-end optimized 3D action recognition methods often suffer from high computational costs. Observing that different frames and different points in point cloud sequences often have different importance values for the 3D action recognition task, in this work, we propose a fully automatic model compression framework called 3D-Pruning (3DP) for efficient 3D action recognition. After performing model compression by using our 3DP framework, the compressed model can process different frames and different points in each frame by using different computational complexities based on their importance values, in which both the importance value and computational complexity for each frame/point can be automatically learned. Extensive experiments on five benchmark datasets demonstrate the effectiveness of our 3DP framework for model compression.</p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method11.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong>J. Guo*, J. Liu* and D. Xu, “3D-Pruning: A Model Compression Framework for Efficient 3D Action Recognition,” IEEE T-CSVT, Accepted (In Press).
+ </p>
+</div>
+            </div>
+        </div>
+    </div>
+#### 3D Visual Grounding
+
+The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
+
+<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi3y">
+        <div id="uniqueId_NFvw7rQq_10_heading">
+            <h4 class="b-accordion__title">
+                <a title="3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_10_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_10_panel">
+                    3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds
+                </a>
+            </h4>
+        </div>
+
+        <div id="uniqueId_NFvw7rQq_10_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_10_heading" aria-expanded="false" style="height: 0px;">
+            <div class="b-accordion__content b-accordion__content--corporate">
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lichen Zhao</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Daigang Cai</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>Visual grounding on 3D point clouds is an emerging vision and language task that benefits various applications in understanding the 3D visual world. By formulating this task as a grounding-by-detection problem, lots of recent works focus on how to exploit more powerful detectors and comprehensive language features, but (1) how to model complex relations for generating context-aware object proposals and (2) how to leverage proposal relations to distinguish the true target object from similar proposals are not fully studied yet. Inspired by the well-known transformer architecture, we propose a relation-aware visual grounding method on 3D point clouds, named as 3DVG-Transformer, to fully utilize the contextual clues for relation-enhanced proposal generation and cross-modal proposal disambiguation, which are enabled by a newly designed coordinate-guided contextual aggregation (CCA) module in the object proposal generation stage, and a multiplex attention (MA) module in the cross-modal feature fusion stage. We validate that our 3DVG-Transformer outperforms the state-of-the-art methods by a large margin, on two point cloud-based visual grounding datasets, ScanRefer and Nr3D/Sr3D from ReferIt3D, especially for complex scenarios containing multiple objects of the same category.</p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method12.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong>L. Zhao*, D. Cai*, L. Sheng and D. Xu, “3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds,” ICCV, October 2021.
+
+ </p>
+</div>
+            </div>
+        </div>
+    </div>
+
+<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi2y">
+        <div id="uniqueId_NFvw7rQq_11_heading">
+            <h4 class="b-accordion__title">
+                <a title="3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_11_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_11_panel">
+                    3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds
+                </a>
+            </h4>
+        </div>
+
+        <div id="uniqueId_NFvw7rQq_11_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_11_heading" aria-expanded="false" style="height: 0px;">
+            <div class="b-accordion__content b-accordion__content--corporate">
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Daigang Cai</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lichen Zhao</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jing Zhang</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>Observing that the 3D captioning task and the 3D grounding task contain both shared and complementary information in nature, in this work, we propose a unified framework to jointly solve these two distinct but closely related tasks in a synergistic fashion, which consists of both shared task-agnostic modules and lightweight task-specific modules. On one hand, the shared task-agnostic modules aim to learn precise locations of objects, fine-grained attribute features to characterize different objects, and complex relations between objects, which benefit both captioning and visual grounding. On the other hand, by casting each of the two tasks as the proxy task of another one, the lightweight task-specific modules solve the captioning task and the grounding task respectively. Extensive experiments and ablation study on three 3D vision and language datasets demonstrate that our joint training frame-work achieves significant performance gains for each individual task and finally improves the state-of-the-art performance for both captioning and grounding tasks.</p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method13.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong>D. Cai*, L. Zhao*, J. Zhang, L. Sheng and D. Xu, “3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds,” CVPR, June 2022. (Oral)
+ </p>
 </div>
             </div>
         </div>
