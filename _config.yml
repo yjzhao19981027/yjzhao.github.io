@@ -42,7 +42,7 @@ urlimg: 'https://yjzhao19981027.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "site=logo.png"
+logo: "site-logo.png"
 
 # Gems
 gems:
