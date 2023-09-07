@@ -42,7 +42,7 @@ urlimg: 'https://yjzhao19981027.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "hku_bg.jpg"
+logo: "https://yjzhao19981027.github.io/images/hku_bg.jpg"
 
 # Gems
 gems:
