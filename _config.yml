@@ -8,20 +8,20 @@
 #                                                 /____/
 #
 # Title of your website
-title: My project
+title: Human-like Visual Perception for Service Robots
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: my slogan
+slogan: Human-like Visual Perception for Service Robots
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Welcome to the homepage of the JC STEM Lab of MediaML at The University of Hong Kong'
+description: 'Human-like Visual Perception for Service Robots'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Modified by Yiming Wu based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
-author: Yiming Wu
+author: Yinjie Zhao
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
