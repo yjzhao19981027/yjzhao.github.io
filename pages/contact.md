@@ -9,13 +9,29 @@ header:
 permalink: "/contact/"
 ---
 
+## Below are the homepages and contact information for our respective laboratories:
 
+## Lab1
+
+homepage:xxx
+
+e-mail:xxx
+
+## Lab2
+
+homepage:xxx
+
+e-mail:xxx
+
+## Lab3
+
+homepage:xxx
+
+e-mail:xxx
 
 <div class="row">
     {{ content }}
 </div>
 
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
 
- [1]: http://www.wufoo.com/
