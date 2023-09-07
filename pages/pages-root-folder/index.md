@@ -76,12 +76,8 @@ Efficient and high-quality compression techniques are developed for point cloud 
 
 * second
 * 
-<style>
-.gray-div {
-background-color: gray;
-}
-</style>
-<div class="gray-div" id="sqmr030u">
+
+<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: yellow;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
                 <a title="Point Cloud Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
