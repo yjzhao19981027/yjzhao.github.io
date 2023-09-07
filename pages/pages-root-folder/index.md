@@ -89,15 +89,20 @@ Efficient and high-quality compression techniques are developed for point cloud 
         
         <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
             <div align="center">
-                <img src="/images/hku_bg.jpg"  width="300px" height="10px">
+                <h3><strong>VoxelContext-Net: An Octree based Framework for Point Cloud Compression</strong></h3>
             </div>
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p><strong>Our partner:</strong>&nbsp;Google Brain, Microsoft, Alibaba Research, Facebook Reality Lab, University of Washington.</p>
-<p>We are tackling the essential performance problems for both extreme large-scale and small-scale models on a diverse range of hardware platforms. </p>
-<p>Along with our international collaborators, we aim to explore principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation through cross-stack co-design (compiler, runtime and hardware accelerators). </p>
-<p>The scope of our MLSys research includes but not limited to ML compiler design and optimisations, software-hardware co-design, runtime optimisation techniques, and customised acceleration for novel deep learning models.</p>
-<p><strong>Funding agency:</strong> Google Brain, Alibaba Global Faculty Award (AIR), Facebook Fair Faculty Award, USYD SOAR fellowship.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Zizheng Que</a>
+                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Guo</a>
+                    <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                </p>
+                <p><strong>Abstract:</strong>In this paper, we propose a two-stage deep learning framework called VoxelContext-Net for both static and dynamic point cloud compression. Taking advantages of both octree based methods and voxel based schemes, our approach employs the voxel context to compress the octree structured data. Specifically, we first extract the local voxel representation that encodes the spatial neighbouring context information for each node in the constructed octree. Then, in the entropy coding stage, we propose a voxel context based deep entropy model to compress the symbols of non-leaf nodes in a lossless way. Furthermore, for dynamic point cloud compression, we additionally introduce the local voxel representations from the temporal neighbouring point clouds to exploit temporal dependency. More importantly, to alleviate the distortion from the octree construction procedure, we propose a voxel context based 3D coordinate refinement method to produce more accurate reconstructed point cloud at the decoder side, which is applicable to both static and dynamic point cloud compression. The comprehensive experiments on both static and dynamic point cloud benchmark datasets(e.g., ScanNet and Semantic KITTI) clearly demonstrate the effectiveness of our newly proposed method VoxelContext-Net for 3D point cloud geometry compression. </p>
+                <p><strong>Our Method:</strong></p>
+                <img src="/images/hku_bg.jpg"  width="300px" height="10px">
+                <p><strong>Reference:</strong> Z. Que*, G. Lu and D. Xu, “VoxelContext-Net: An Octree based Framework for Point Cloud Compression,” CVPR 2021</p>
+
 </div>
             </div>
         </div>
