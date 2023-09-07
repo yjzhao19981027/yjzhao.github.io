@@ -279,12 +279,12 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zaj" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQbq_6_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4za" style="background-color: transparent;">
+        <div id="uniqueId_NFvw7rQb_6_heading">
             <h4 class="b-accordion__title">
                 <a title="APSNet: Towards Adaptive Point Sampling for Efficient 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
                         js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQbq_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQbq_6_panel">
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQb_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQb_6_panel">
                     APSNet: Towards Adaptive Point Sampling for Efficient 3D Action Recognition
                 </a>
             </h4>
@@ -313,10 +313,10 @@ Generate denser point clouds from sparse point clouds, including static point cl
 <div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zbj" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQcq_6_heading">
             <h4 class="b-accordion__title">
-                <a title="APSNet: Towards Adaptive Point Sampling for Efficient 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                <a title="GeometryMotion-Transformer: An End-to-End Framework for 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
                         js-analytics-accordian-wide-button js-analytics-accordian-wide
                         collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQcq_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQcq_6_panel">
-                    APSNet: Towards Adaptive Point Sampling for Efficient 3D Action Recognition
+                    GeometryMotion-Transformer: An End-to-End Framework for 3D Action Recognition
                 </a>
             </h4>
         </div>
@@ -329,12 +329,12 @@ Generate denser point clouds from sparse point clouds, including static point cl
                         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jinyang Guo</a>, 
                         <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
                     </p>
-                    <p><strong>Abstract:</strong>Observing that it is still a challenging task to deploy 3D action recognition methods in real-world scenarios, in this work, we investigate the accuracy-efficiency trade-off for 3D action recognition. We first introduce a simple and efficient backbone network structure for 3D action recognition, in which we directly extract the geometry and motion representations from the raw point cloud videos through a set of simple operations ( i.e., coordinate offset generation and mini-PoinNet). Based on the backbone network, we propose an end-to-end optimized network called adaptive point sampling network (APSNet) to achieve the accuracy-efficiency trade-off, which mainly consists of three stages: the coarse feature extraction stage, the decision making stage, and the fine feature extraction stage. In APSNet, we adaptively decide the optimal resolutions ( i.e., the optimal number of points) for each pair of frames based on any input point cloud video under the given computational complexity constraint. Comprehensive experiments on multiple benchmark datasets demonstrate the effectiveness and efficiency of our newly proposed APSNet for 3D action recognition.  </p>
+                    <p><strong>Abstract:</strong>In this work, we propose a new end-to-end optimized two-stream framework called GeometryMotion-Transformer (GMT) for 3D action recognition. We first observe that the existing 3D action recognition approaches cannot well extract motion representations from point cloud sequences. Specifically, when extracting motion representations, the existing approaches do not explicitly consider one-to-one correspondence among frames. Besides, the existing methods only extract the single-scale motion representations, which cannot well model the complex motion patterns of moving objects in point cloud sequences. To address these issues, we first propose the feature extraction module (FEM) to generate one-to-one correspondence among frames without using the voxelization process, and explicitly extract both geometry and multi-scale motion representations from raw point clouds. Moreover, we also observe the existing two-stream 3D action recognition approaches simply concatenate or add the geometry and motion features, which cannot well exploit the relationship between two-steam features. To this end, we also propose an improved transformer-based feature fusion module (FFM) to effectively fuse the two-stream features. Based on the proposed FEM and FFM, we build our GMT for 3D action recognition. Extensive experimental results on four benchmark datasets demonstrate the effectiveness of our backbone GMT.  </p>
                     <p><strong>Our Method:</strong></p>
                     <div align="center">
-                        <img src="/images/method/method8.png" height="100px">
+                        <img src="/images/method/method9.png" height="100px">
                     </div>
-                    <p><strong>Reference:</strong> J. Liu*, J. Guo* and D. Xu, “APSNet: Towards Adaptive Point Sampling for Efficient 3D Action Recognition,” T-IP, 31, pp. 5287-5302, 2022. 
+                    <p><strong>Reference:</strong> J. Liu*, J. Guo* and D. Xu, “GeometryMotion-Transformer: An End-to-End Framework for 3D Action Recognition,” T-MM, Accepted (In Press). 
  </p>
 </div>
             </div>
