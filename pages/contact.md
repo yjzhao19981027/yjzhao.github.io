@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: frontpage
 title: "Contact"
 meta_title: "Contact and use our contact form"
 subheadline: "Wufoo-powered contact forms"
