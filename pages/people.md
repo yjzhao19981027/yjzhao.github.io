@@ -13,7 +13,7 @@ permalink: "/people/"
 
 <div class="row" align="center">
     <div class="row">
-<!--         <h3>Faculty</h3> -->
+        <h3>Professor</h3>
         <br/>
     </div>
     
