@@ -141,12 +141,6 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-
-
-#### 3D Object Detection
-
-3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
-
 <div class="b-accordion__item panel b-js-accordion-item" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_3_heading">
             <h4 class="b-accordion__title">
@@ -178,9 +172,9 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-#### 3D Action Recognition
+#### 3D Object Detection
 
-3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
+3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
 
 <div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_4_heading">
@@ -280,6 +274,12 @@ Generate denser point clouds from sparse point clouds, including static point cl
             </div>
         </div>
     </div>
+
+#### 3D Action Recognition
+
+3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
+
+
 
 #### Model Compression
 
