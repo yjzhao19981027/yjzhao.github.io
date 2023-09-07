@@ -79,8 +79,9 @@ Efficient and high-quality compression techniques are developed for point cloud 
 <div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
-                <a title="Exploring principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    Exploring principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation
+                <a title="Point Cloud Compression" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
+                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
+                    Point Cloud Compression
                 </a>
             </h4>
         </div>
