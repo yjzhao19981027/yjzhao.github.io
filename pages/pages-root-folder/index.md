@@ -135,8 +135,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
                     <div align="center">
                         <img src="/images/method/method3.png" height="100px">
                     </div>
-                    <p><strong>Reference:</strong> K. Wang*, L. Sheng, S. Gu and D. Xu, “Sequential Point Cloud Upsampling by Exploiting Multi-scale Temporal Dependency,” IEEE T-CSVT, 31(12), pp. 4686-4696, December 2021. 
-</p>
+                    <p><strong>Reference:</strong> K. Wang*, L. Sheng, S. Gu and D. Xu, “Sequential Point Cloud Upsampling by Exploiting Multi-scale Temporal Dependency,” IEEE T-CSVT, 31(12), pp. 4686-4696, December 2021.</p>
 </div>
             </div>
         </div>
@@ -148,24 +147,31 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
+<div class="b-accordion__item panel b-js-accordion-item" id="59ok6c07" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
             <h4 class="b-accordion__title">
-                <a title="3D Object Detection" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
+                <a title="VPU-Net: A Video-based Point Cloud Upsampling Framework" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
                   js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    3D Object Detection
+                    VPU-Net: A Video-based Point Cloud Upsampling Framework
                 </a>
             </h4>
         </div>
 
         <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p><strong>Our partner:</strong>&nbsp;Google Brain, Microsoft, Alibaba Research, Facebook Reality Lab, University of Washington.</p>
-<p>We are tackling the essential performance problems for both extreme large-scale and small-scale models on a diverse range of hardware platforms. </p>
-<p>Along with our international collaborators, we aim to explore principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation through cross-stack co-design (compiler, runtime and hardware accelerators). </p>
-<p>The scope of our MLSys research includes but not limited to ML compiler design and optimisations, software-hardware co-design, runtime optimisation techniques, and customised acceleration for novel deep learning models.</p>
-<p><strong>Funding agency:</strong> Google Brain, Alibaba Global Faculty Award (AIR), Facebook Fair Faculty Award, USYD SOAR fellowship.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Kaisiyuan Wang</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuhang Gu</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>In this work, we propose a new patch-based framework called VPU for the video-based point cloud upsampling task by effectively exploiting temporal dependency among multiple consecutive point cloud frames, in which each frame consists of a set of unordered, sparse and irregular 3D points. Rather than adopting the sophisticated motion estimation strategy in video analysis, we propose a new spatio-temporal aggregation (STA) module to effectively extract , align and aggregate rich local geometric clues from consecutive frames at the feature level. By more reliably summarizing spatio-temporally consistent and complementary knowledge from multiple frames in the resultant local structural features, our method better infers the local geometry distributions at the current frame. In addition, our STA module can be readily incorporated with various existing single frame-based point upsampling methods ( e.g. , PU-Net, MPU, PU-GAN and PU-GCN). Comprehensive experiments on multiple point cloud sequence datasets demonstrate our video-based point cloud upsampling framework achieves substantial performance improvement over its single frame-based counterparts. </p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method4.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong> K. Wang*, L. Sheng, S. Gu and D. Xu, “VPU-Net: A Video-based Point Cloud Upsampling Framework,” IEEE T-IP, 31, pp. 4062-4075, 2022. </p>
 </div>
             </div>
         </div>
