@@ -86,7 +86,7 @@ Efficient and high-quality compression techniques are developed for point cloud 
                 </a>
             </h4>
         </div>
-
+        <img src="images/hku_bg.jpg"/ width="300px" height="180px">
         <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
