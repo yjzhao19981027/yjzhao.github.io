@@ -13,7 +13,7 @@ permalink: "/people/"
 
 <div class="row">
     <div class="row">
-        <h3>Faculty</h3>
+<!--         <h3>Faculty</h3> -->
         <br/>
     </div>
     
@@ -24,30 +24,3 @@ permalink: "/people/"
 
 </div>
 
----
-
-<div class="row">
-    <div class="row">
-        <h3 class="medium-12">Postdoc & Research Assistants</h3>
-        <br/>
-    </div>
-    
-    <div class="row">
-        {% include member.html photo="../images/people/YimingWu.jpg" name="Yiming Wu Postdoc" title="Ph.D ZJU" homepage="https://www.wuyiming.site" %}
-    </div>
-    
-</div>
-
----
-
-<div class="row">
-    <div class="row">
-        <h3 class="medium-12">Ph.D. Students</h3>
-        <br/>
-    </div>
-
-    <div class="row" style="margin-bottom:10px;">
-        {% include member.html photo="../images/people/YunzheHu.jpg" name="Yunzhe Hu" title="B.E SJTU" %}
-    </div>
-
-</div>
