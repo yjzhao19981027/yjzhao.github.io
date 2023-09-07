@@ -375,7 +375,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd94">
+<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd94" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_9_heading">
             <h4 class="b-accordion__title">
                 <a title="JointPruning: Pruning Networks along Multiple Dimensions for Efficient Point Cloud Processing" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
@@ -407,18 +407,18 @@ Model compression refers to the process of reducing the size and complexity of a
         </div>
     </div>
 
-<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd95">
-        <div id="uniqueId_NFvw7rQq_1_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd95" style="background-color: transparent;">
+        <div id="uniqueId_NFvw3rQq_1_heading">
             <h4 class="b-accordion__title">
                 <a title="3D-Pruning: A Model Compression Framework for Efficient 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
                         js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_1_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_1_panel">
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw3rQq_1_panel" aria-expanded="false" aria-controls="uniqueId_NFvw3rQq_1_panel">
                     3D-Pruning: A Model Compression Framework for Efficient 3D Action Recognition
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_1_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_1_heading">
+        <div id="uniqueId_NFvw3rQq_1_panel" class="collapse " aria-labelledby="uniqueId_NFvw3rQq_1_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
@@ -437,14 +437,15 @@ Model compression refers to the process of reducing the size and complexity of a
             </div>
         </div>
     </div>
+    
 #### 3D Visual Grounding
 
 The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi3y">
+<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi3y" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_10_heading">
             <h4 class="b-accordion__title">
-                <a title="3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_10_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_10_panel">
+                <a title="3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_10_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_10_panel">
                     3DVG-Transformer: Relation Modeling	for Visual Grounding on Point Clouds
                 </a>
             </h4>
@@ -472,7 +473,7 @@ The task of 3D visual grounding aims to address the following problem: determini
         </div>
     </div>
 
-<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi2y">
+<div class="b-accordion__item panel b-js-accordion-item" id="jbcexi2y" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_11_heading">
             <h4 class="b-accordion__title">
                 <a title="3DJCG: A Unified Framework for Joint Dense Captioning and Visual Grounding on 3D Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_11_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_11_panel">
