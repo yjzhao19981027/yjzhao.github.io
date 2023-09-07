@@ -147,17 +147,18 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="59ok6c07" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQq_0_heading">
+<div class="b-accordion__item panel b-js-accordion-item" style="background-color: transparent;">
+        <div id="uniqueId_NFvw7rQq_3_heading">
             <h4 class="b-accordion__title">
-                <a title="VPU-Net: A Video-based Point Cloud Upsampling Framework" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
-                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
+                <a title="VPU-Net: A Video-based Point Cloud Upsampling Framework" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_3_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_3_panel">
                     VPU-Net: A Video-based Point Cloud Upsampling Framework
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
+        <div id="uniqueId_NFvw7rQq_3_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_3_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
@@ -181,24 +182,100 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
 
-<div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQq_0_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf">
+        <div id="uniqueId_NFvw7rQq_4_heading">
             <h4 class="b-accordion__title">
-                <a title="3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button                         
-                  js-analytics-accordian-wide-button js-analytics-accordian-wide collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_0_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_0_panel">
-                    3D Action Recognition
+                <a title="SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_4_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_4_panel">
+                    SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_0_panel" class="collapse" aria-labelledby="uniqueId_NFvw7rQq_0_heading" aria-expanded="false" style="height: 0px;">
+        <div id="uniqueId_NFvw7rQq_4_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_4_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
-                <div class="content richTextModule"><p><strong>Our expert:</strong>&nbsp;Dr <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shuaiwen Song</a></p>
-<p><strong>Our partner:</strong>&nbsp;Google Brain, Microsoft, Alibaba Research, Facebook Reality Lab, University of Washington.</p>
-<p>We are tackling the essential performance problems for both extreme large-scale and small-scale models on a diverse range of hardware platforms. </p>
-<p>Along with our international collaborators, we aim to explore principles and key technologies of multi-scale multi-dimensional machine learning inference system optimisation through cross-stack co-design (compiler, runtime and hardware accelerators). </p>
-<p>The scope of our MLSys research includes but not limited to ML compiler design and optimisations, software-hardware co-design, runtime optimisation techniques, and customised acceleration for novel deep learning models.</p>
-<p><strong>Funding agency:</strong> Google Brain, Alibaba Global Faculty Award (AIR), Facebook Fair Faculty Award, USYD SOAR fellowship.</p>
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Weichen Zhang</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Wen Li</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>Geometric characteristic plays an important role in the representation of an object in 3D point clouds. For example, large objects often contain more points, while small ones contain fewer points. The point clouds of objects near the capture device are denser, while those of distant objects are sparser. These issues bring new challenges to 3D object detection, especially under the domain adaptation scenarios. In this work, we propose a new cross-dataset 3D object detection method named Scale-aware and Range-aware Domain Adaptation Network (SRDAN). We take advantage of the geometric characteristics of 3D data (i.e., size and distance), and propose the scale-aware domain alignment and the range-aware domain alignment strategies to guide the distribution alignment between two domains. For scale-aware domain alignment, we design a 3D voxel-based feature pyramid network to extract multi-scale semantic voxel features, and align the features and instances with similar scales between two domains. For range-aware domain alignment, we introduce a range-guided domain alignment module to align the features of objects according to their distance to the capture device. Extensive experiments under three different scenarios demonstrate the effectiveness of our SRDAN approach, and comprehensive ablation study also validates the importance of geometric characteristics for cross-dataset 3D object detection. </p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method5.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong> W. Zhang*, W. Li and D. Xu, “SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection,” CVPR, June 2021.
+ </p>
+</div>
+            </div>
+        </div>
+    </div>
+
+<div class="b-accordion__item panel b-js-accordion-item" id="hjldio5f">
+        <div id="uniqueId_NFvw7rQq_5_heading">
+            <h4 class="b-accordion__title">
+                <a title="Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_5_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_5_panel">
+                    Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds
+                </a>
+            </h4>
+        </div>
+
+        <div id="uniqueId_NFvw7rQq_5_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_5_heading">
+            <div class="b-accordion__content b-accordion__content--corporate">
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Bowen Cheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Shaoshuai Shi</a>,
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Ming Yang</a>,
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>
+                    </p>
+                    <p><strong>Abstract:</strong>3D object detection in point clouds is a challenging vision task that benefits various applications for understanding the 3D visual world. Lots of recent research focuses on how to exploit end-to-end trainable Hough voting for generating object proposals. However, the current voting strategy can only receive partial votes from the surfaces of potential objects together with severe outlier votes from the cluttered backgrounds, which hampers full utilization of the information from the input point clouds. Inspired by the back-tracing strategy in the conventional Hough voting methods, in this work, we introduce a new 3D object detection method, named as Back-tracing Representative Points Network (BRNet), which generatively back-traces the representative points from the vote centers and also revisits complementary seed points around these generated points, so as to better capture the fine local structural features surrounding the potential objects from the raw point clouds. Therefore, this bottom-up and then top-down strategy in our BRNet enforces mutual consistency between the predicted vote centers and the raw surface points and thus achieves more reliable and flexible object localization and class prediction results. Our BRNet is simple but effective, which significantly outperforms the state-of-the-art methods on two large-scale point cloud datasets, ScanNet V2 (+7.5% in terms of mAP@0.50) and SUN RGB-D (+4.7% in terms of mAP@0.50), while it is still lightweight and efficient.  </p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method6.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong> B. Chen, L. Sheng, M. Yang, S. Shi and D. Xu, “Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds,” CVPR, June 2021. 
+
+ </p>
+</div>
+            </div>
+        </div>
+    </div>
+
+<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zj">
+        <div id="uniqueId_NFvw7rQq_6_heading">
+            <h4 class="b-accordion__title">
+                <a title="Transformer3D-Det: Improving 3D Object Detection by Vote Refinement" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
+                        js-analytics-accordian-wide-button js-analytics-accordian-wide
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_6_panel">
+                    Transformer3D-Det: Improving 3D Object Detection by Vote Refinement
+                </a>
+            </h4>
+        </div>
+
+        <div id="uniqueId_NFvw7rQq_6_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_6_heading">
+            <div class="b-accordion__content b-accordion__content--corporate">
+                <div class="content richTextModule">
+                <p><strong>Authors:</strong>&nbsp;
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lichen Zhao</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Jinyang Guo</a>, 
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Dong Xu</a>,
+                        <a href="https://www.sydney.edu.au/engineering/about/our-people/academic-staff/shuaiwen-song.html">Lu Sheng</a>
+                    </p>
+                    <p><strong>Abstract:</strong>Voting-based methods (e.g., VoteNet) have achieved promising results for 3D object detection. However, the simple voting operation in VoteNet may lead to less accurate voting results that are far away from the true object centers. In this work, we propose a simple but effective 3D object detection method called Transformer3D-Det (T3D), in which we additionally introduce a transformer based vote refinement module to refine the voting results of VoteNet and can thus significantly improve the 3D object detection performance. Specifically, our T3D framework consists of three modules: a vote generation module, a vote refinement module, and a bounding box generation module. Given an input point cloud, we first utilize the vote generation module to generate multiple coarse vote clusters. Then, the clustered coarse votes will be refined by using our transformer based vote refinement module to produce more accurate and meaningful votes. Finally, the bounding box generation module takes the refined vote clusters as the input and generates the final detection result for the input point cloud. To alleviate the impact of inaccurate votes, we also propose a new non-vote loss function to train our T3D. As a result, our T3D framework can achieve better 3D object detection performance. Comprehensive experiments on two benchmark datasets ScanNetV2 and SUN RGB-D demonstrate the effectiveness of our T3D framework for 3D object detection.  </p>
+                    <p><strong>Our Method:</strong></p>
+                    <div align="center">
+                        <img src="/images/method/method7.png" height="100px">
+                    </div>
+                    <p><strong>Reference:</strong> L. Zhao*, J. Guo*, D. Xu and L. Sheng, “Transformer3D-Det: Improving 3D Object Detection by Vote Refinement,” IEEE T-CSVT, 31(12), pp. 4735-4746, December 2021. 
+
+
+ </p>
 </div>
             </div>
         </div>
