@@ -60,17 +60,17 @@ permalink: /index.html
 homepage: true
 ---
 
-# Introduction
+## Introduction
 
 * first
 
-# Our Aim
+## Our Aim
 
-# Our Task
+## Our Task
 
 ## Our Research
 
-### Point Cloud Compression
+#### Point Cloud Compression
 
 Efficient and high-quality compression techniques are developed for point cloud data, significantly reducing storage and bandwidth costs. This includes Geometry-based Point Cloud Compression (G-PCC) and Video-based Point Cloud Compression (V-PCC), which are specifically designed for compressing point cloud data.
 
