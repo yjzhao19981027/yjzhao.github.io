@@ -290,7 +290,7 @@ Generate denser point clouds from sparse point clouds, including static point cl
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_6_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_6_heading">
+        <div id="uniqueId_NFvw7rQb_6_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQb_6_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
@@ -310,18 +310,18 @@ Generate denser point clouds from sparse point clouds, including static point cl
         </div>
     </div>
 
-<div class="b-accordion__item panel b-js-accordion-item" id="uwdba4zbj" style="background-color: transparent;">
-        <div id="uniqueId_NFvw7rQcq_6_heading">
+<div class="b-accordion__item panel b-js-accordion-item" id="uwdba5zj" style="background-color: transparent;">
+        <div id="uniqueId_NFvw7rQq_7_heading">
             <h4 class="b-accordion__title">
                 <a title="GeometryMotion-Transformer: An End-to-End Framework for 3D Action Recognition" href="javascript:void(0)" class="b-accordion__link b-accordion__link--size-corporate b-js-accordion-button
                         js-analytics-accordian-wide-button js-analytics-accordian-wide
-                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQcq_6_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQcq_6_panel">
+                        collapsed" role="button" data-toggle="collapse" data-target="#uniqueId_NFvw7rQq_7_panel" aria-expanded="false" aria-controls="uniqueId_NFvw7rQq_7_panel">
                     GeometryMotion-Transformer: An End-to-End Framework for 3D Action Recognition
                 </a>
             </h4>
         </div>
 
-        <div id="uniqueId_NFvw7rQq_6_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_6_heading">
+        <div id="uniqueId_NFvw7rQq_7_panel" class="collapse " aria-labelledby="uniqueId_NFvw7rQq_7_heading">
             <div class="b-accordion__content b-accordion__content--corporate">
                 <div class="content richTextModule">
                 <p><strong>Authors:</strong>&nbsp;
