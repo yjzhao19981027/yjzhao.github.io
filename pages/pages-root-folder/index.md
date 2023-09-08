@@ -62,7 +62,9 @@ homepage: true
 
 ## Introduction
 
-Research on humanoid visual perception algorithms and technologies for service robots aims to explore and develop methods and techniques that enable robots to perceive visual information more like humans. With the rapid advancement of artificial intelligence and robotics, service robots are increasingly being used in daily life and work. Therefore, improving their visual perception accuracy and efficiency becomes crucial.
+The JC STEM Lab of MediaML @ HKU is at the forefront of this revolution, dedicated to pioneering research and development that enhances the intelligence and functionality of these service robots. Our lab's primary focus revolves around the meticulous investigation of point cloud processing and analysis. This technology plays a pivotal role in helping robots perceive and understand their environment, laying the groundwork for more sophisticated and nuanced responses to external stimuli. By integrating multi-modality perception, we aim to elevate a robot's sensory capabilities, making them more adept at navigating complex environments and scenarios. We are proud to collaborate with Ubetech, a renowned entity in the mainland, as our strategic partner in this endeavor. This partnership not only enriches our research capacity but also fosters an environment of knowledge exchange, setting the stage for breakthrough innovations in the realm of service robotics.
+
+Director: Professor Dong Xu (dongxu@hku.hk)
 
 ## Our Aim
 
