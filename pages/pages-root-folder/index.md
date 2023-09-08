@@ -62,7 +62,15 @@ homepage: true
 
 ## Introduction
 
-TBD
+Research on humanoid visual perception algorithms and technologies for service robots aims to explore and develop methods and techniques that enable robots to perceive visual information more like humans. With the rapid advancement of artificial intelligence and robotics, service robots are increasingly being used in daily life and work. Therefore, improving their visual perception accuracy and efficiency becomes crucial.
+
+Professor Dong Xu’s team at the University of Hong Kong will conduct research in the field of point cloud processing and analysis. Specifically, they will focus on one or more of the following research directions:
+- \emph{Point Cloud Compression}. Eficient and higtr-quality comprestion technicues are develoned for point cloud data. sienificantiy reducing storaze and bandwidth costs. This ncudes Geometry-haseoPoint Cloud Compression (G-PCC and Vide-based Point Cloud Compression (V-PCC),which are specifically designed for compressing point cloud data.
+- \emph{Point Cloud Upsampling}. Generate denser point clouds from sparse point clouds, including static point cloud upsampling and video-based point cloud upsampling.
+- 3D Object Detection. 3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
+- 3D Action Recognition. 3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
+- Model Compression. Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
+- 3D Visual Grounding. The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
 
 ## Our Aim
 
