@@ -64,6 +64,12 @@ homepage: true
 
 Research on humanoid visual perception algorithms and technologies for service robots aims to explore and develop methods and techniques that enable robots to perceive visual information more like humans. With the rapid advancement of artificial intelligence and robotics, service robots are increasingly being used in daily life and work. Therefore, improving their visual perception accuracy and efficiency becomes crucial.
 
+## Our Aim
+
+Research on humanoid visual perception algorithms and technologies for service robots.
+
+## Our Research
+
 Professor Dong Xu’s team at the University of Hong Kong will conduct research in the field of point cloud processing and analysis. Specifically, they will focus on one or more of the following research directions:
 - \emph{Point Cloud Compression}. Eficient and higtr-quality comprestion technicues are develoned for point cloud data. sienificantiy reducing storaze and bandwidth costs. This ncudes Geometry-haseoPoint Cloud Compression (G-PCC and Vide-based Point Cloud Compression (V-PCC),which are specifically designed for compressing point cloud data.
 - \emph{Point Cloud Upsampling}. Generate denser point clouds from sparse point clouds, including static point cloud upsampling and video-based point cloud upsampling.
@@ -72,18 +78,9 @@ Professor Dong Xu’s team at the University of Hong Kong will conduct research 
 - Model Compression. Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
 - 3D Visual Grounding. The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
 
-## Our Aim
-
-Research on humanoid visual perception algorithms and technologies for service robots.
-
-## Our Research
-
-Professor Dong Xu's team at the University of Hong Kong will conduct research in the field of point cloud processing and analysis. Specifically, they will focus on one or more of the following research directions:
+## Publication
 
 #### Point Cloud Compression
-
-Efficient and high-quality compression techniques are developed for point cloud data, significantly reducing storage and bandwidth costs. This includes Geometry-based Point Cloud Compression (G-PCC) and Video-based Point Cloud Compression (V-PCC), which are specifically designed for compressing point cloud data.
-
 
 <div class="b-accordion__item panel b-js-accordion-item" id="sqmr030u" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_0_heading">
@@ -117,8 +114,6 @@ Efficient and high-quality compression techniques are developed for point cloud 
     </div>
 
 #### Point Cloud Upsampling
-
-Generate denser point clouds from sparse point clouds, including static point cloud upsampling and video-based point cloud upsampling.
 
 <div class="b-accordion__item panel b-js-accordion-item" id="rh223j2g" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_1_heading">
@@ -181,8 +176,6 @@ Generate denser point clouds from sparse point clouds, including static point cl
     </div>
 
 #### 3D Object Detection
-
-3D object detection is the process of detecting and categorizing objects of interest from 3D point cloud data, as well as estimating the position of their 3D bounding boxes.
 
 <div class="b-accordion__item panel b-js-accordion-item" id="ulxsuokf" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_4_heading">
@@ -285,8 +278,6 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 #### 3D Action Recognition
 
-3D action recognition is the process of identifying various human actions from sequences of 3D point cloud data.
-
 <div class="b-accordion__item panel b-js-accordion-item" id="uwdba4za" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQb_6_heading">
             <h4 class="b-accordion__title">
@@ -381,8 +372,6 @@ Generate denser point clouds from sparse point clouds, including static point cl
 
 #### Model Compression
 
-Model compression refers to the process of reducing the size and complexity of a pre-trained deep learning model to obtain a lightweight network with comparable accuracy. The compressed network has a smaller structure and fewer parameters, which effectively reduces computational and storage costs. This makes it easier to deploy the network in hardware-constrained environments.
-
 <div class="b-accordion__item panel b-js-accordion-item" id="8x9ycd94" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_9_heading">
             <h4 class="b-accordion__title">
@@ -447,8 +436,6 @@ Model compression refers to the process of reducing the size and complexity of a
     </div>
     
 #### 3D Visual Grounding
-
-The task of 3D visual grounding aims to address the following problem: determining the specific target object, including its category and the location of its 3D bounding box, through explicit and unambiguous language descriptions.
 
 <div class="b-accordion__item panel b-js-accordion-item" id="jbcexi3y" style="background-color: transparent;">
         <div id="uniqueId_NFvw7rQq_10_heading">
